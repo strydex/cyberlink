@@ -8,7 +8,7 @@ function Links() {
       <a href="https://music.yandex.ru/artist/8920838" target="_blank" rel="noopener noreferrer">[Страничка исполнителя STRYDEX | Yandex.Music]</a>
       <a href="https://t.me/millionstrydex" target="_blank" rel="noopener noreferrer">[TG-канал по Крипте]</a>
       <a href="https://t.me/strydeeboy" target="_blank" rel="noopener noreferrer">[Личный TG-канал]</a>
-      <a href="https://tiktok.com/strydexhot" target="_blank" rel="noopener noreferrer">[TikTok]</a>
+      <a href="https://tiktok.com/@strydexhot" target="_blank" rel="noopener noreferrer">[TikTok]</a>
     </div>
   );
 }
