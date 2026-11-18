@@ -16,7 +16,7 @@ function Profile() {
           Пол: <span style={{ color: 'var(--cybertext1)' }}>Мужской</span>
         </p>
         <p>
-          Род деятельности: <span style={{ color: 'var(--cybertext1)' }}>IT-Сервисы | Web3</span>
+          Род деятельности: <span style={{ color: 'var(--cybertext1)' }}>IT-Сервисы для бизнеса</span>
         </p>
         <p>
           Специальности: <span style={{ color: 'var(--cybertext1)' }}>Web-Разработчик, Музыкант, Предприниматель</span>
