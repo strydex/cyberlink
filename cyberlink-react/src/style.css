@@ -50,12 +50,13 @@ body {
 
 .profileimage {
     clip-path: polygon(3% 0, 100% 0, 100% 0, 100% 90%, 90% 100%, 0 100%, 0 55%, 3% 50%);
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     object-fit: cover;
     border-left: 3px solid var(--cyberborder); 
     border-top: 2px solid var(--cyberborder);
     border-right: 2px solid var(--cyberborder);
+    box-shadow: 0 0 15px rgba(247, 80, 73, 0.25);
 }
 
 .container {
@@ -177,11 +178,14 @@ body {
     }
 
     .profileimage {
-        width: 80px;
-        height: 80px;
-        border-width: 2px;
-        clip-path: none;
-        border-radius: 10px;
+        width: 140px;
+        height: 140px;
+        border-left: 3px solid var(--cyberborder); 
+        border-top: 2px solid var(--cyberborder);
+        border-right: 2px solid var(--cyberborder);
+        clip-path: polygon(4% 0, 100% 0, 100% 0, 100% 90%, 90% 100%, 0 100%, 0 55%, 4% 50%);
+        border-radius: 0;
+        box-shadow: 0 0 15px rgba(247, 80, 73, 0.35);
     }
 
     .moreinfo {
@@ -212,7 +216,7 @@ body {
         padding-left: 1vw;
     }
     .profileimage {
-        width: 60px;
-        height: 60px;
+        width: 140px;
+        height: 140px;
     }
 }
