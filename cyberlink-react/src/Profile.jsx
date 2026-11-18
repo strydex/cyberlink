@@ -19,10 +19,10 @@ function Profile() {
           Род деятельности: <span style={{ color: 'var(--cybertext1)' }}>IT-Сервисы | Web3</span>
         </p>
         <p>
-          Специальности: <span style={{ color: 'var(--cybertext1)' }}>Доктор, Финансист, Web-Разработчик, Музыкант, Предприниматель</span>
+          Специальности: <span style={{ color: 'var(--cybertext1)' }}>Web-Разработчик, Музыкант, Предприниматель</span>
         </p>
         <p>
-          Особенности: <span style={{ color: 'var(--cybertext1)' }}> Склонность к риску, Креативность, Многогранность, Импульсивность</span>
+          Особенности: <span style={{ color: 'var(--cybertext1)' }}> Склонность к риску, Креативность, Импульсивность</span>
         </p>
       </div>
     </div>

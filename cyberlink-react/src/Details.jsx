@@ -6,9 +6,7 @@ function Details() {
         <p>
           <span style={{ color: 'var(--cybertext3)', fontSize: 14 }}>
             {/* Details here */}
-            // Гео: Russia, Moscow <br />
-            // Рост:      171 cm <br />
-            // Вес:      64 kg <br />
+            // Гео: UAE, Dubai <br />
             // <br />
             // Ранг: SS <br />
             // Компетенции: <br />

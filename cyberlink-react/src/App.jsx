@@ -24,6 +24,11 @@ function App() {
               ВНИМАНИЕ! Досье содержит данные на нетраннера высшего класса. Просмотр файлов может вызвать нейрозависимость от качественного кода и нестандартного контента. <br></br>Входи на свой страх и риск, choom!
             </span>
           </p>
+          <p style={{ marginTop: '14px', borderTop: '1px dashed var(--cybertext3)', paddingTop: '8px' }}>
+            <span style={{ color: 'var(--cybertext3)', fontSize: 11 }}>
+              *Meta и дочерние компании запрещены на территории Российской Федерации
+            </span>
+          </p>
         </div>
       </div>
       <Details />
