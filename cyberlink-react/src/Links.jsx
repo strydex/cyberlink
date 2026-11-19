@@ -15,7 +15,7 @@ function Links() {
 
   return (
     <div className="links">
-      <a href="https://strydex.is-a.dev/">[IT-портфолио]</a>
+      <a href="https://folio.strydex.space/">[IT-портфолио]</a>
       <a href="https://github.com/strydex">[GitHub]</a>
       <a href="https://music.yandex.ru/artist/8920838" onClick={handleMusicClick}>
         [Страничка исполнителя STRYDEX | Yandex.Music]
